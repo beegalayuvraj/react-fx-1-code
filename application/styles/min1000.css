@@ -1,0 +1,17 @@
+@media screen and (min-width: 1000px) {
+	.fx-col-head-title {
+		width:15%;
+	}
+	.fx-col-head-data {
+		width:10%;
+		font-size: 14px;
+	}
+	.fx-col-head-data.xtra {
+		display:none;	
+	}
+	div.fx-row-text.tx-fx-pair {
+		width:20%;
+		font-size: 4vw;
+	}
+	
+}

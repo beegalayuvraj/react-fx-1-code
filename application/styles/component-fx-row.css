@@ -1,0 +1,41 @@
+.flag-container {
+	display:inline-block;
+	/*width:5%;*/
+}
+.flag-style {
+	width:22px;
+	height: 14px;
+	margin-left:5px;
+	margin-top:5px;
+	margin-right: 2vw;
+}
+.fx-row {
+	height:25px;
+	background-color: black;
+	-webkit-transition: background-color .25s ease-in-out;
+}
+.fx-row:hover {
+	background-color: #333;
+}
+.fx-row-text:hover {
+	color:#FFF;
+}
+.fx-row-text {
+	position:relative;
+	display: inline-block;
+	/*top:-2px;*/
+	font-family: VCR_OSD;
+	font-size: 14px;
+	color: white;
+}
+.fx-row-text.tx-fx-pair {
+	text-align: left;
+}
+.fx-row-text.fx-data {
+	font-size: 14px;
+	width:17%;
+	text-align: right;
+}
+.fx-row-text.fx-data p {
+	padding-right: 30%;
+}

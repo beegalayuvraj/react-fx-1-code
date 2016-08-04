@@ -1,0 +1,43 @@
+@media screen and (min-width: 600px) {
+	div.fx-row-text.xtra {
+		display:inline-block;
+	}
+	div.fx-row-text {
+		width:10%;
+		font-size: 3.5vw;
+	}
+	div.fx-row-text.tx-fx-pair {
+		width:13%;
+		font-size: 3vw;
+	}
+	div.fx-heading-pair {
+		width:30%;
+	}
+	div.fx-heading-data {
+		width:10%;
+	}
+	.fx-col-head-title {
+		width:20%;
+	}
+	.fx-col-head-data {
+		font-size: 2.2vw;
+	}
+	.fx-col-head-data {
+		width:11%;
+	}
+	div.fx-col-head-data.xtra {
+		display:inline-block;
+	}
+	.panel-heading-title {
+		font-size: 3.5vw;
+	}
+	.fx-panel-heading-update {
+		font-size: 1.4vw;
+		line-height: 1.25;
+	}
+	.fx-row-text.fx-data {
+		font-size: 3.5vw;
+		width:10%;
+		text-align: right;
+	}
+}

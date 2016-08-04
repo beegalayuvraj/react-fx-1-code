@@ -1,0 +1,14 @@
+.fx-flag-with-label {
+	width:30%;
+	display: inline-block;
+}
+.fx-flag-label {
+	display:inline-block;
+	color:white;
+	font-family: VCR_OSD;
+	font-size: 14px;
+	text-align: left;
+}
+/*div {
+	border:1px solid red;
+}*/

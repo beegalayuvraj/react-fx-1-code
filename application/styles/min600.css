@@ -1,0 +1,46 @@
+@media screen and (min-width: 600px) {
+	.fx-col-head-title {
+		width:17%;
+		font-size: 13px;
+	}
+	.fx-col-head-data {
+		font-size: 13px;
+		width:10.5%;
+	}
+	div.fx-col-head-data.xtra {
+		display:inline-block;
+		width:12.5%;
+	}
+	.fx-flag-with-label {
+		width:17%;
+	}
+	div.fx-row-text.xtra {
+		display:inline-block;
+		width:12%;
+		padding-left:2%;
+	}
+	div.fx-row-text {
+		width:10%;
+		font-size: 3.5vw;
+	}
+	div.fx-row-text.tx-fx-pair {
+		width:13%;
+		font-size: 3vw;
+	}
+	div.fx-heading-pair {
+		width:30%;
+	}
+	div.fx-heading-data {
+		width:10%;
+	}
+	
+	.fx-row-text.fx-data {
+		font-size: 14px;
+		width:10%;
+		/*border:1px solid red;*/
+	}
+	.fx-row-text.fx-data p {
+		padding-right: 15%;
+	}
+
+}
