@@ -1,0 +1,21 @@
+{
+  "name": "react-fx-1-code",
+  "scripts": {
+    "postdeploy": "npm start"
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
